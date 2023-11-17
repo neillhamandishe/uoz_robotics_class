@@ -1,6 +1,6 @@
 <launch>
   
-  <arg name="transmission" default="velocity" />
+  <arg name="transmission" default="effort" />
 
   <param name="use_sim_time" value="true" />
 
