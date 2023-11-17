@@ -1,0 +1,23 @@
+<launch>
+  
+  <arg name="transmission" default="velocity" />
+
+  <param name="use_sim_time" value="true" />
+
+  <include file="$(find franka_gazebo)/launch/panda.launch">
+    <arg name="world" value="$(find manipulation)world/tabletop.world"/>
+    <arg name="x" value="0"/>
+    <arg name="y" value="0"/>
+    <arg name="z" value="1.04"/>
+    <arg name="paused" value="true"/>
+    <arg name="controller" default="$(arg transmission)_joint_trajectory_controller" />
+  </include>
+
+  <include file="$(find panda_moveit_config)/launch/demo.launch" pass_all_args="true">
+  <!-- robot description is loaded by gazebo.launch, to enable Gazebo features -->
+  <arg name="load_robot_description" value="false" />
+  <!-- MoveItSimpleControllerManager provides ros_control's JointTrajectory controllers
+        as well as GripperCommand actions -->
+  <arg name="moveit_controller_manager" value="simple" />
+</include>
+</launch>
