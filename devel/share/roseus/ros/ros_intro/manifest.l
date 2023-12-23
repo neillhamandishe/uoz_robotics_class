@@ -1,0 +1,1 @@
+/home/neill/ros/uoz_robotics_class/devel/.private/ros_intro/share/roseus/ros/ros_intro/manifest.l

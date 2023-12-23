@@ -1,0 +1,4 @@
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/pykdl_utils/cmake/pykdl_utilsConfig-version.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/pykdl_utils/cmake/pykdl_utilsConfig.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/python3/dist-packages/pykdl_utils/__init__.py
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/pkgconfig/pykdl_utils.pc

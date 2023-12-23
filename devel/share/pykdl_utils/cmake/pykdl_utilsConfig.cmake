@@ -1,0 +1,1 @@
+/home/neill/ros/uoz_robotics_class/devel/.private/pykdl_utils/share/pykdl_utils/cmake/pykdl_utilsConfig.cmake

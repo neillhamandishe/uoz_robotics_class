@@ -1,0 +1,8 @@
+prefix=/home/neill/ros/uoz_robotics_class/install
+
+Name: manipulation
+Description: Description of manipulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

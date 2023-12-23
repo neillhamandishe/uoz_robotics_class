@@ -1,0 +1,7 @@
+navigation
+/home/neill/ros/uoz_robotics_class/devel/.private/navigation/cmake.lock /home/neill/ros/uoz_robotics_class/devel/./cmake.lock
+/home/neill/ros/uoz_robotics_class/devel/.private/navigation/share/navigation/cmake/navigationConfig.cmake /home/neill/ros/uoz_robotics_class/devel/share/navigation/cmake/navigationConfig.cmake
+/home/neill/ros/uoz_robotics_class/devel/.private/navigation/share/navigation/cmake/navigationConfig-version.cmake /home/neill/ros/uoz_robotics_class/devel/share/navigation/cmake/navigationConfig-version.cmake
+/home/neill/ros/uoz_robotics_class/devel/.private/navigation/lib/navigation/navigate.py /home/neill/ros/uoz_robotics_class/devel/lib/navigation/navigate.py
+/home/neill/ros/uoz_robotics_class/devel/.private/navigation/lib/navigation/cmake.lock /home/neill/ros/uoz_robotics_class/devel/lib/navigation/cmake.lock
+/home/neill/ros/uoz_robotics_class/devel/.private/navigation/lib/pkgconfig/navigation.pc /home/neill/ros/uoz_robotics_class/devel/lib/pkgconfig/navigation.pc

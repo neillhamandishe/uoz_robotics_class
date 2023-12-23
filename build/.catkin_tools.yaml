@@ -1,0 +1,6 @@
+devel_space: /home/neill/ros/uoz_robotics_class/devel
+install: false
+install_space: /home/neill/ros/uoz_robotics_class/install
+profile: default
+source_space: /home/neill/ros/uoz_robotics_class/src
+workspace: /home/neill/ros/uoz_robotics_class

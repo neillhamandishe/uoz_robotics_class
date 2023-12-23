@@ -1,0 +1,8 @@
+prefix=/home/neill/ros/uoz_robotics_class/devel/.private/navigation
+
+Name: navigation
+Description: Description of navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

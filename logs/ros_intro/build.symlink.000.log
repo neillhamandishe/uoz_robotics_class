@@ -1,0 +1,12 @@
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/ros_intro/cmake/ros_introConfig.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/ros_intro/cmake/ros_introConfig-version.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/ros_intro/cmake/ros_intro-msg-extras.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/ros_intro/cmake/ros_intro-msg-paths.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/roseus/ros/ros_intro/manifest.l
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/ros_intro/subscriber
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/ros_intro/subscriber.py
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/ros_intro/publisher.py
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/ros_intro/cmake.lock
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/ros_intro/publisher
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/python3/dist-packages/ros_intro/__init__.py
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/pkgconfig/ros_intro.pc

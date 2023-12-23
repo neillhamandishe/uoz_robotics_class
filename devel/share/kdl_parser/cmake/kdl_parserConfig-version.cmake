@@ -1,0 +1,1 @@
+/home/neill/ros/uoz_robotics_class/devel/.private/kdl_parser/share/kdl_parser/cmake/kdl_parserConfig-version.cmake

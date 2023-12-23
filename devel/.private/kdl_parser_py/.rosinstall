@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/neill/ros/uoz_robotics_class/devel/.private/kdl_parser_py/setup.sh

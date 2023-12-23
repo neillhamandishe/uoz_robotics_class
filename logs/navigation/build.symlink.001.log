@@ -1,0 +1,5 @@
+Linked: (/home/neill/ros/uoz_robotics_class/devel/.private/navigation/share/navigation/cmake/navigationConfig.cmake, /home/neill/ros/uoz_robotics_class/devel/share/navigation/cmake/navigationConfig.cmake)
+Linked: (/home/neill/ros/uoz_robotics_class/devel/.private/navigation/share/navigation/cmake/navigationConfig-version.cmake, /home/neill/ros/uoz_robotics_class/devel/share/navigation/cmake/navigationConfig-version.cmake)
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/navigation/navigate.py
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/navigation/cmake.lock
+Linked: (/home/neill/ros/uoz_robotics_class/devel/.private/navigation/lib/pkgconfig/navigation.pc, /home/neill/ros/uoz_robotics_class/devel/lib/pkgconfig/navigation.pc)

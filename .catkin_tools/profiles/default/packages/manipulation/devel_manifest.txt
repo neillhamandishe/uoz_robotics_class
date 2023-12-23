@@ -1,0 +1,5 @@
+manipulation
+/home/neill/ros/uoz_robotics_class/devel/.private/manipulation/cmake.lock /home/neill/ros/uoz_robotics_class/devel/./cmake.lock
+/home/neill/ros/uoz_robotics_class/devel/.private/manipulation/share/manipulation/cmake/manipulationConfig-version.cmake /home/neill/ros/uoz_robotics_class/devel/share/manipulation/cmake/manipulationConfig-version.cmake
+/home/neill/ros/uoz_robotics_class/devel/.private/manipulation/share/manipulation/cmake/manipulationConfig.cmake /home/neill/ros/uoz_robotics_class/devel/share/manipulation/cmake/manipulationConfig.cmake
+/home/neill/ros/uoz_robotics_class/devel/.private/manipulation/lib/pkgconfig/manipulation.pc /home/neill/ros/uoz_robotics_class/devel/lib/pkgconfig/manipulation.pc

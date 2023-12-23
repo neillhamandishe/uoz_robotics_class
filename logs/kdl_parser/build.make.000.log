@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target kdl_parser[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/kdl_parser.dir/src/kdl_parser.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library /home/neill/ros/uoz_robotics_class/devel/.private/kdl_parser/lib/libkdl_parser.so[0m
+[ 50%] Built target kdl_parser
+[35m[1mScanning dependencies of target check_kdl_parser[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/check_kdl_parser.dir/src/check_kdl_parser.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/neill/ros/uoz_robotics_class/devel/.private/kdl_parser/lib/kdl_parser/check_kdl_parser[0m
+[100%] Built target check_kdl_parser

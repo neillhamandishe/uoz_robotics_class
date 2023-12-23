@@ -1,0 +1,4 @@
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/hrl_geom/cmake/hrl_geomConfig.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/hrl_geom/cmake/hrl_geomConfig-version.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/python3/dist-packages/hrl_geom/__init__.py
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/pkgconfig/hrl_geom.pc

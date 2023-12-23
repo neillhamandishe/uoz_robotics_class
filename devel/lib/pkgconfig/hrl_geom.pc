@@ -1,0 +1,1 @@
+/home/neill/ros/uoz_robotics_class/devel/.private/hrl_geom/lib/pkgconfig/hrl_geom.pc

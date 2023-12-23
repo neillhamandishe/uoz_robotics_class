@@ -1,0 +1,12 @@
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./local_setup.zsh
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./_setup_util.py
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./setup.bash
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./setup.zsh
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./local_setup.sh
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./env.sh
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./setup.sh
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./cmake.lock
+Symlinking /home/neill/ros/uoz_robotics_class/devel/./local_setup.bash
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/neill/ros/uoz_robotics_class/devel/lib/pkgconfig/catkin_tools_prebuild.pc
