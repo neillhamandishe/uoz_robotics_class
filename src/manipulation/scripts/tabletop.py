@@ -230,25 +230,7 @@ def link7_T_ee() -> np.ndarray:
     Returns:
         np.ndarray: _description_
     """
-    #rotation_matrix = tf.transformations.identity_matrix()
-    #translation_matrix = 
-
-    print("raising hell")
-    
-    #translation
-    x_trans, y_trans, z_trans = (0.3070694-0.30679, -3.0863e-05 - -3.03126e-05, 0.59054 - 0.697544)
-    translation_matrix_1 = tf.transformations.translation_matrix((x_trans, y_trans, z_trans))
-    translation_matrix_2 = get_zero_angle_transform_between_links(8)
-    print(f"T MATRIX 2: {translation_matrix_2}")
-    print(f"T MATRIX 1: {translation_matrix_1}")
-
-    translation_matrix = np.dot(translation_matrix_1, translation_matrix_2)
-
-    #rotation
-    x, y, z, w = (1, -6.07521e-05, 0.000703051, 2.52689e-06)
-    rotation_EE = tf.transformations.quaternion_matrix((x, y, z, w))
-
-    return tf.transformations.concatenate_matrices(translation_matrix, rotation_EE)
+    return get_tf_homogeneous_transform("link7", "EE")
 
 
 def link0_T_ee(joint_values: List[float]) -> np.ndarray:
